@@ -1,5 +1,5 @@
 Public class test{
-Public Static Void main(string args[])
+Public static void main(String[] args)
 {
 System.out.println(" jenkins are good");
 }
